@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (KH_2D_Space_Shooter.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\ZBook\Google Drive\_git\_git_public\projects\KH_2D_Space_Shooter\KH_2D_Space_Shooter\Main.cpp(418,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ZBook\Google Drive\_git\_git_public\projects\KH_2D_Space_Shooter\KH_2D_Space_Shooter\Main.cpp(454,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  KH_2D_Space_Shooter.vcxproj -> C:\Users\ZBook\Google Drive\_git\_git_public\projects\KH_2D_Space_Shooter\Debug\KH_2D_Space_Shooter.exe

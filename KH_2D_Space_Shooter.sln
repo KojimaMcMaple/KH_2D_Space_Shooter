@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KH_2D_Space_Shooter", "KH_2D_Space_Shooter\KH_2D_Space_Shooter.vcxproj", "{882F6D20-0574-4B5C-9436-FC512DBD2459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Debug|x64.ActiveCfg = Debug|x64
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Debug|x64.Build.0 = Debug|x64
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Debug|x86.ActiveCfg = Debug|Win32
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Debug|x86.Build.0 = Debug|Win32
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Release|x64.ActiveCfg = Release|x64
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Release|x64.Build.0 = Release|x64
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Release|x86.ActiveCfg = Release|Win32
+		{882F6D20-0574-4B5C-9436-FC512DBD2459}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A531CD18-E449-47F2-BFCB-B66557F371B8}
+	EndGlobalSection
+EndGlobal
