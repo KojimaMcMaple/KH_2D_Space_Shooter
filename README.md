@@ -5,6 +5,6 @@
 
 • YouTube demo: https://youtu.be/S41Zhfj6hwA
 
-![](https://raw.githubusercontent.com/KojimaMcMaple/KH_2D_Space_Shooter/master/KH_2D_Space_Shooter_SNAPSHOT.jpg)
+![](https://raw.githubusercontent.com/KojimaMcMaple/KH_2D_Space_Shooter/master/KH_2D_Space_Shooter_SOURCE/KH_2D_Space_Shooter_SNAPSHOT.jpg)
 
 
